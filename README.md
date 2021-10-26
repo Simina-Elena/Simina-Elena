@@ -4,9 +4,7 @@
 
 ##### Connect with me:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-E6E6FA?logo=linkedin&logoColor=blue&style=flat-square)](https://www.linkedin.com/in/simina-tabac-204ab7174)
-[![Gmail](https://img.shields.io/badge/-Gmail-E6E6FA?logo=Gmail&logoColor=red&style=flat-square)](https://www.linkedin.com/in/simina-tabac-204ab7174)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:siminatabac22@gmail.com%22/%3E)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 ![Simina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simina-Elena&show_icons=true&theme=omni)
 
