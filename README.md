@@ -2,9 +2,7 @@
 ---
 #### My name is Simina-Elena Tabac and I am student at Codecool Academy. I am an energetic person, motivated and eager to learn new skills.
 
-##### Connect with me:
-[![Linkedin](https://img.shields.io/badge/-Linkedin-E6E6FA?logo=linkedin&logoColor=blue&style=flat-square)](https://www.linkedin.com/in/simina-tabac-204ab7174)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:siminatabac22@gmail.com%22/%3E)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+##### You can find me on [![Linkedin](https://img.shields.io/badge/-Linkedin-E6E6FA?logo=linkedin&logoColor=blue&style=flat-square)](https://www.linkedin.com/in/simina-tabac-204ab7174)
 
 ![Simina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simina-Elena&show_icons=true&theme=omni)
 
@@ -39,27 +37,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**Simina-Elena/Simina-Elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
